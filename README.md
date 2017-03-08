@@ -2,8 +2,8 @@
 
 ## warum wir git verwenden
 
-* temafähig
-* backup
-* zurück zu einer vorigen Version
+1. temafähig
+1. backup
+1. zurück zu einer vorigen Version
 
 ## nachster Kurs HTML
