@@ -7,3 +7,8 @@
 1. zurück zu einer vorigen Version
 
 ## nächster Kurs HTML
+
+## Bilder und Links
+
+![Webcam von der Seegrube](Seegrube.jpg)
+Quelle: [Bild von der Seegrube](http://www.bergfex.at/innsbruck-nordkette/webcams/c8214/)
